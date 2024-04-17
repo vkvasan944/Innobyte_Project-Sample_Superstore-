@@ -2,7 +2,9 @@
 
 # Project Overview:
 
-              Comprehensive analysis of the Superstore sales dataset, visualized using Tableau. The project aims to uncover insights from the dataset by employing various data visualization techniques. Through intuitive and interactive dashboards, we explore trends, patterns, and anomalies in the sales data and given recommendations to facilitate data-driven decision-making.
+Comprehensive analysis of the Superstore sales dataset, visualized using Tableau. The project aims to uncover insights from the dataset by employing various data visualization techniques. Through intuitive and 
+
+interactive dashboards, we explore trends, patterns, and anomalies in the sales data and given recommendations to facilitate data-driven decision-making.
 
 # Exploratory Data Analysis:
 
