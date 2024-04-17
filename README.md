@@ -34,16 +34,28 @@ Total Profit         : 286K $
 
 # Key Insights From Dashboard:
 
+
+
 1.The Top 5 Sub-categories which making Highest Sales are: Phones, Chairs, Storage, Table, Binders.
+
 2.The Highest Sales Making Sub-Category of Phones  is 330,007 $
+
 3.The Lowest Sales Making Sub-Category of  Fasterner is 3,024  $
+
 4.The Top 5 Sub-categories which gained the maximum profit are: Copiers, Phones, Accessories, Paper, Binders.
+
 5.The Highest Profit given Sub-Category of Copiers is 55,618 $
+
 6.The Lowest Profit given Sub-Category of Table is -17,725 $
+
 7.The Sub-categories Supplies, Bookcases and Tables have suffered losses.
+
 8.The Top 5 states which have the highest sales are: California, New York, Texas, Washington, Pennsylvania
+
 9.The West region has the highest sale of $725k whereas the South region has the lowest sales of $391K.
+
 10.The category Technology has the highest profit of $145k and it comprises around 51% total profit.
+
 
 # Recommendations:
 To improve the overall sales and profit, we can work on the Sub-categories which has suffered losses i.e. Supplies, Bookcases and Tables and the category Furniture which has the lowest percentage of profit. 
