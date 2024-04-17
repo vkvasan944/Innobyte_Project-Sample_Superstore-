@@ -6,14 +6,25 @@
 # Exploratory Data Analysis:
 
 Total data         : 9994 rows, 13 columns
+
 Ship mode        : 4 [first class, second class, same day, Standard class]
+
 Segment           : 3 [consumer, corporate, home office]
+
 Country             : 1 [US]
+
 City                     : 531
+
 State                   : 49
+
 Region                : 4 [east, west, south, central]
+
 Category            :3 [furniture, office supplies, technology]
+
 Sub-category    : 17
+
 Total Sales         : 2.2M $
+
 Total Qty. Sold  : 37.8K
+
 Total Profit         : 286K $
